@@ -1,6 +1,0 @@
-/home/young/CLion/object_detection/cmake-build-debug/CMakeFiles/getCamera.dir
-/home/young/CLion/object_detection/cmake-build-debug/CMakeFiles/objDetect.dir
-/home/young/CLion/object_detection/cmake-build-debug/CMakeFiles/objDetectSplit.dir
-/home/young/CLion/object_detection/cmake-build-debug/CMakeFiles/objDetectKalman.dir
-/home/young/CLion/object_detection/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/young/CLion/object_detection/cmake-build-debug/CMakeFiles/rebuild_cache.dir
